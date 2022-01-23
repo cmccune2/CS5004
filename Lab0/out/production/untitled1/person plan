@@ -1,0 +1,12 @@
+Person class
+
+1.) First name - String
+2.) Last name - String
+3.) YOB - Int
+4.) Married - Bool
+
+Methods:
+-getFirstName
+-getLastName
+-getYOB
+-isMarried
